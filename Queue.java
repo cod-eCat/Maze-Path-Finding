@@ -1,11 +1,9 @@
-package com.lpa.graph;
+import java.util.Iterator;
+import java.util.NoSuchElementException;
 
     /*
     Author @LwinPhyoAung
      */
-
-import java.util.Iterator;
-import java.util.NoSuchElementException;
 
 public class Queue<T> implements Iterable<T>{
 
