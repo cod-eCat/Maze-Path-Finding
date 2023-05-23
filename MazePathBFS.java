@@ -1,10 +1,8 @@
-package com.lpa.graph;
-
 import java.util.Stack;
 
     /*
     Author-@LwinPhyoAung
-    Maze Path Find Using Depth First Search*
+    Maze Path Find Using Breadth First Search*
      */
 
 public class MazePathBFS {
